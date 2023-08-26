@@ -1,0 +1,5 @@
+{{#user}}
+Name: Shubham Kumar Mandal
+Skills: HTML, CSS, JS, Python, C/C++, TS, React.js, Next.js, Bootstrap  CSS, Tailwind CSS, Node.js
+Email: shubhampaul756@gmail.com
+{{/user}}
